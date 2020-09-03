@@ -1,6 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Arjun's Page
+### THis markdown is preceeded by 3 hash marks
+there can be 
+# 1
+## 2
+### 3
+#### 4
+##### i can keep going 
+you can also use
+`this
+``to
+```get a syntax highlighted code block
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+This is a test 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
