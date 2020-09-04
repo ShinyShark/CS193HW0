@@ -1,44 +1,14 @@
-## Welcome to Arjun's Page
-### THis markdown is preceeded by 3 hash marks
-there can be 
-# 1
-## 2
-### 3
-#### 4
-##### i can keep going 
-you can also use
-`this
-``to
-```get a syntax highlighted code block
+# Arjun's First CS193 Homework
+
+Bulleted list of my favorite things about cs193
+
+- The C. C is a very good letter and i am excited to see it in CS193
+- The S. Some say that S is the 19th letter in the english alphabet. there is no way to know for sure.
+- The 1. 1 is the lonliest number that you'll ever do
+- The 9. 9 is not a lonely number. 9 has lots of friends and is considered to be very cool.
+- The 3. Much like how 6 is the number of the beast, 3 is the number of the arjun. which is me. i am the arjun.
 
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-This is a test 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
